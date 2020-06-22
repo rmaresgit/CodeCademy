@@ -1,0 +1,1 @@
+This repository contains the excercises shared with CodeCademy community for DataScience path
